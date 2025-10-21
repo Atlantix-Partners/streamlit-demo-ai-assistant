@@ -35,10 +35,6 @@ chat_prompt = [
     {
         "role": "assistant",
         "content": "Hello! How can I assist you today?"
-    },
-    {
-        "role": "user",
-        "content": "how many PTO do we have"
     }
 ]
 
